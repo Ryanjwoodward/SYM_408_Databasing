@@ -1,0 +1,81 @@
+DOC 
+
+ 
+
+<?xml version="1.0"?> 
+
+<!-- author: Ryan Woodward --> 
+
+<root> 
+
+	<bands> 
+
+	     <band bandName="Rammstein"> 
+
+		<members> 
+
+			<member memberName="Till Lindemann" memberId="1001"> 
+
+				<position positionName="vocals" startDate="1993"> 
+
+				</position> 
+
+			</member> 
+
+			<member memberName="Richard Kruspe" memberId="1002"> 
+
+				<position positionName="Lead Guitar" startDate="1993"> 
+
+				</position> 
+
+			</member> 
+
+			<member memberName="Flake Lorenz" memberId="1003"> 
+
+				<position positionName="Keyboard" startDate="1993"> 
+
+				</position> 
+
+			</member> 
+
+		</members> 
+
+	     </band> 
+
+	     <bands> 
+
+	     <band bandName="ACDC"> 
+
+		<members> 
+
+			<member memberName="Angus Young" memberId="201"> 
+
+				<position positionName="Lead Guitar" startDate="1977"> 
+
+				</position> 
+
+			</member> 
+
+			<member memberName="Brian Johnson" memberId="202"> 
+
+				<position positionName="vocals" startDate="1980"> 
+
+				</position> 
+
+			</member> 
+
+			<member memberName="Bon Scott" memberId="203"> 
+
+				<position positionName="vocals" startDate="1978"> 
+
+				</position> 
+
+			</member> 
+
+		</members> 
+
+	     </band> 
+
+	</bands> 
+
+</root> 
